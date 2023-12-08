@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quadb-hodlinfo-main/static/css/main.a20dd33e.css",
+    "main.js": "/quadb-hodlinfo-main/static/js/main.51c67da0.js",
+    "static/js/787.a3e3745d.chunk.js": "/quadb-hodlinfo-main/static/js/787.a3e3745d.chunk.js",
+    "static/media/logo.svg": "/quadb-hodlinfo-main/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/quadb-hodlinfo-main/index.html",
+    "main.a20dd33e.css.map": "/quadb-hodlinfo-main/static/css/main.a20dd33e.css.map",
+    "main.51c67da0.js.map": "/quadb-hodlinfo-main/static/js/main.51c67da0.js.map",
+    "787.a3e3745d.chunk.js.map": "/quadb-hodlinfo-main/static/js/787.a3e3745d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a20dd33e.css",
+    "static/js/main.51c67da0.js"
+  ]
+}
